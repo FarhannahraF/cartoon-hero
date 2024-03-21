@@ -1,0 +1,92 @@
+body{
+margin: 0;
+font-family: helvetica, arial, sans-serif; 
+font-size: 20px;
+line-height: 30px;
+}
+
+header{
+	background-color: cornflowerblue;
+	text-align: center;
+
+	padding-bottom: 50px;
+	padding-top: 50px;
+
+}
+h1, h2{
+	
+  font-family: "Carrois Gothic", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+
+}
+header h1{ 
+	color:darkblue;
+	font-size: 60px;
+
+
+}
+
+header img{
+	border-radius: 170px;
+	width: 300px;
+	border:20px solid darkred;
+
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding:0 20px;
+}
+main img{
+	max-width: 100%;
+}
+
+h2{
+	margin: 40px 0px 10px;
+	font-size: 35px;
+	color: darkred;
+}
+
+a{
+	color: darkred;
+}
+
+#Allen:hover {
+	background-color: #9f216b;
+	color: #cdefee;
+}
+#Immortal:hover {
+	background-color: #37425e;
+	color: #e8cd58;
+}
+#Atom:hover {
+
+	background-color: plum;
+	color: whitesmoke;
+}
+/*
+#Atom:hover {
+	background-color:plum;
+	color: whitesmoke;
+}*/
+
+footer{
+	background-color: cornflowerblue;
+	text-align: center;
+	padding: 20px;
+}
+
+footer p{
+	margin: 0px;
+
+
+}
+
+p.caption {
+	color: darkred;
+	margin: 0px;
+	font-style: italic;
+}
