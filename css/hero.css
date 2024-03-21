@@ -54,6 +54,8 @@ a{
 	color: darkred;
 }
 
+/* # <- infront of id, instead of 'a' which is for anchor */
+
 #Allen:hover {
 	background-color: #9f216b;
 	color: #cdefee;
@@ -90,3 +92,4 @@ p.caption {
 	margin: 0px;
 	font-style: italic;
 }
+
